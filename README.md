@@ -2,7 +2,7 @@
 
 ## 대형언어모델(LLM) 바닥부터 만들기
 
-## code
+#### code
 - [Jupyter notebook](https://github.com/kh22cho/LLM_configuration/blob/main/LLM_practice.ipynb)
 
 #### 참고 자료
